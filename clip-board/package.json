@@ -1,0 +1,17 @@
+{
+  "name": "clip-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/electron": "^1.6.10",
+    "electron-prebuilt": "^1.4.13"
+  }
+}
