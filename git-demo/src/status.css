@@ -1,0 +1,11 @@
+.unknown{
+    background-color: grey;
+}
+
+.clean{
+    background-color: green;
+}
+
+.dirty{
+    background-color: red;
+}
